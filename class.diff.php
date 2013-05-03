@@ -6,7 +6,7 @@
     *  [root]/license.txt for more. This information must remain intact.
     */
 
-include(COMPONENTS.'/common/class.common.php');
+require_once('../../common.php');
 
 class Diff extends Common {
   
